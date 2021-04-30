@@ -1,7 +1,6 @@
-import { task } from 'hardhat/config';
 import '@nomiclabs/hardhat-waffle';
 import { ethers } from 'hardhat';
-import { HardhatUserConfig } from 'hardhat/config';
+import { HardhatUserConfig, task } from 'hardhat/config';
 
 // This is a sample Hardhat task. To learn how to create your own go to
 // https://hardhat.org/guides/create-task.html
