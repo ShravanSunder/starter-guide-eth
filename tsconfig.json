@@ -19,5 +19,5 @@
       "outDir": "dist"
    },
    "include": ["./src", "./scripts", "./test"],
-   "files": ["./hardhat.config.ts"]
+   "files": ["./hardhat.config.ts", "./src/__global.ts"]
 }
