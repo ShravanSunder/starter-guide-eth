@@ -12,5 +12,9 @@
   "dependencies": {
     "@graphprotocol/graph-cli": "0.20.0",
     "@graphprotocol/graph-ts": "0.20.0"
+  },
+  "devDependencies": {
+    "@typechain/hardhat": "^2.0.1",
+    "typechain": "^5.0.0"
   }
 }
